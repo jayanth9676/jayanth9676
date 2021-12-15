@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @jayanth9676
 - 👀 I’m interested in competitive programming and contributing to open source projects.
-- 🌱 I’m currently learning python.
-- �  I have learnt C, C++ , Javascript , HTML & CSS.
-- 💞️ I’m looking to collaborate on github projects and gsoc organisations.
-- 📫 How to reach me "on github *'~'* ".
-- 🦋 Curious in Cicada_12cubes!
+- 🌱 I’m currently learning Python, ML & AI.
+- �  I have learnt C, C++ , JAVA, Javascript, HTML & CSS, JSON, SQL.
+- 💞️ I’m looking to collaborate on github projects.
+- 📫 How to reach me https://www.linkedin.com/in/jayanth-thallapelli.
+- 🦋 Curious in Blockchain & AI.
 
 <!---
 jayanth9676/jayanth9676 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
