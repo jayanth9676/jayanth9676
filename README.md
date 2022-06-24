@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jayanth9676
 - 👀 I’m interested in competitive programming and contributing to open source projects.
-- 🌱 I’m currently learning Python, ML & AI.
-- �  I have learnt C, C++ , JAVA, Javascript, HTML & CSS, JSON, SQL.
-- 💞️ I’m looking to collaborate on github projects.
+- 🌱 I’m currently learning Full stack web development and ML & AI.
+- �  I have learnt C, C++ , JAVA, Python, Javascript, HTML & CSS, SQL, MySQL.
+- 💞️ I’m looking to collaborate on exiting projects.
 - 📫 How to reach me https://www.linkedin.com/in/jayanth-thallapelli.
 - 🦋 Curious in Blockchain & AI.
 
