@@ -4,7 +4,8 @@
 - �  I have learnt C, C++ , JAVA, Python, Javascript, HTML & CSS, SQL, MySQL.
 - 💞️ I’m looking to collaborate on exiting projects.
 - 📫 How to reach me https://www.linkedin.com/in/jayanth-thallapelli.
-- 🦋 Curious in Blockchain & AI.
+- 🦋 Curious in Blockchain & AI. 
+- Credly: https://www.credly.com/users/thallapelli-jayanth
 
 <!---
 jayanth9676/jayanth9676 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
