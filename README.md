@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @jayanth9676
-- 👀 I’m interested in competitive programming and contributing to open source projects.
-- 🌱 I’m currently learning Full Stack Web Development, ML & AI.
-- �  I have learnt C, C++ , JAVA, Python, Javascript, HTML & CSS, SQL, MySQL.
-- 💞️ I’m looking to collaborate on exiting projects.
-- 📫 How to reach me https://www.linkedin.com/in/jayanth-thallapelli.
-- 🦋 Curious in Blockchain & AI. 
+## Hi there 👋
+
+I'm Jayanth, a passionate software engineer, building AgentAstra.ai. Expertise in various programming languages and technologies. My GitHub profile showcases a collection of projects I've worked on, ranging from web applications to machine learning models.
+
+## 🔭 Current Focus
+- Exploring new technologies and frameworks to enhance my skills
+- Collaborating on open-source projects to contribute to the community
+- Developing innovative solutions to solve real-world problems
+
+## 🌱 Skills
+- **Languages**: JavaScript, TypeScript, Python, Java, Go, C++
+- **Frameworks/Libraries**: React, Spring Boot, Node.js, Express, Django, Wdio.js, Appium
+- **Databases**: MongoDB, PostgreSQL, MySQL
+- **Tools**: Git, Docker, Jenkins
+- **🌱 Interests**: Machine Learning & AI, Web Development, Android Development, Blockchain.
+
+## ✨ Connect
+- LinkedIN: https://www.linkedin.com/in/jayanth-thallapelli
 - Credly: https://www.credly.com/users/thallapelli-jayanth
 
 <!---
