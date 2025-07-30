@@ -1,18 +1,17 @@
 ## Hi there 👋
 
-I'm Jayanth, a passionate software engineer, building AgentAstra.ai. Expertise in various programming languages and technologies. My GitHub profile showcases a collection of projects I've worked on, ranging from web applications to machine learning models.
-
 ## 🔭 Current Focus
-- Exploring new technologies and frameworks to enhance my skills
+- Exploring new technologies and frameworks to enhance my skills in AI.
 - Collaborating on open-source projects to contribute to the community
 - Developing innovative solutions to solve real-world problems
 
 ## 🌱 Skills
+- AI & ML, GenAI, Agentic AI, RLVR, MCP.
 - **Languages**: JavaScript, TypeScript, Python, Java, Go, C++
-- **Frameworks/Libraries**: React, Spring Boot, Node.js, Express, Django, Wdio.js, Appium
-- **Databases**: MongoDB, PostgreSQL, MySQL
+- **Frameworks/Libraries**: Langchain/LangGraph, LlamIndex, FastMCP, FastAPI, React, Spring Boot, Node.js, Express, Django, Wdio.js, Appium
+- **Databases**: MongoDB, PostgreSQL (Supabase), MySQL
 - **Tools**: Git, Docker, Jenkins
-- **🌱 Interests**: Machine Learning & AI, Web Development, Android Development, Blockchain.
+- **Interests**: Machine Learning & AI, Web Development, Android Development, Blockchain.
 
 ## ✨ Connect
 - LinkedIN: https://www.linkedin.com/in/jayanth-thallapelli
