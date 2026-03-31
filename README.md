@@ -6,7 +6,6 @@
 
 ## ✨ Connect with me
 - LinkedIN: https://www.linkedin.com/in/jayanth-thallapelli
-- Credly: https://www.credly.com/users/thallapelli-jayanth
 
 <!---
 jayanth9676/jayanth9676 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
